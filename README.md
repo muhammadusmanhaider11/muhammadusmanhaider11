@@ -32,7 +32,8 @@ class Developer:
         print("Thanks for visiting! Let's collaborate and build something amazing together.")
 
 me = Developer()
-me.say_hi()
+me.say_hi()```
+
 🎯 Professional Journey
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Continuous+Learner" alt="Roles SVG" /> </div>
 🛠️ Technology Arsenal
