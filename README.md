@@ -140,4 +140,4 @@ If you find my projects helpful:
 🔗 Share my work
 💬 Provide feedback
 🤝 Contribute to my projects
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Let's+build+something+amazing+together+%F0%9F%9A%80;Happy+Coding+%F0%9F%92%BB" alt="Closing Message" /> </div> <div align="center"> Made with ❤️ by Muhammad Usman Haider </div> ```
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Let's+build+something+amazing+together+%F0%9F%9A%80;Happy+Coding+%F0%9F%92%BB" alt="Closing Message" /> </div> <div align="center"> Made with ❤️ by Muhammad Usman Haider </div>
