@@ -34,12 +34,26 @@ class Developer:
 me = Developer()
 me.say_hi()
 ```
-##🎯 Professional Journey
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Continuous+Learner" alt="Roles SVG" /> </div>
-##🛠️ Technology Arsenal
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&lines=Master+of+Multiple+Tech+Domains;Building+Modern+Applications" alt="Tech Title" /> </div> <table align="center"> <tr> <td>
-🎨 Frontend Mastery
-JavaScript
+
+## 🎯 Professional Journey
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Continuous+Learner" alt="Roles SVG" />
+</div>
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&lines=Master+of+Multiple+Tech+Domains;Building+Modern+Applications" alt="Tech Title" />
+</div>
+
+<table align="center">
+<tr>
+<td>
+
+### 🎨 Frontend Mastery
+
+```javascript
 const frontendSkills = {
     frameworks: {
         react: "⭐⭐⭐⭐⭐",
@@ -57,9 +71,14 @@ const frontendSkills = {
         npm: "⭐⭐⭐⭐⭐"
     }
 };
-</td> <td>
-🔧 Backend Development
-Python
+```
+
+</td>
+<td>
+
+### 🔧 Backend Development
+
+```python
 backend_skills = {
     "frameworks": {
         "Node.js": "⭐⭐⭐⭐⭐",
@@ -77,16 +96,31 @@ backend_skills = {
         "WebSockets": "⭐⭐⭐⭐"
     }
 }
-</td> </tr> </table> <table align="center"> <tr> <td>
-📱 Mobile Development
-Java
+```
+
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<td>
+
+### 📱 Mobile Development
+
+```java
 class MobileDevelopment {
     String[] platforms = {"React Native", "Flutter", "Native Android"};
     String[] expertise = {"UI/UX", "Performance", "User Experience"};
 }
-</td> <td>
-☁️ DevOps & Cloud
-bash
+```
+
+</td>
+<td>
+
+### ☁️ DevOps & Cloud
+
+```bash
 Cloud_Tools=(
     "AWS" 
     "Docker" 
@@ -94,50 +128,84 @@ Cloud_Tools=(
     "GitHub Actions"
     "CI/CD Pipelines"
 )
-</td> </tr> </table>
-💻 Programming Languages
+```
+
+</td>
+</tr>
+</table>
+
+## 💻 Programming Languages
+
 <div align="center">
-Language	Proficiency	Experience
-JavaScript	⭐⭐⭐⭐⭐	4+ years
-Python	⭐⭐⭐⭐⭐	4+ years
-TypeScript	⭐⭐⭐⭐	3+ years
-Java	⭐⭐⭐⭐	2+ years
-SQL	⭐⭐⭐⭐⭐	4+ years
-HTML/CSS	⭐⭐⭐⭐⭐	4+ years
+  
+| Language | Proficiency | Experience |
+|----------|------------|------------|
+| **JavaScript** | ⭐⭐⭐⭐⭐ | 4+ years |
+| **Python** | ⭐⭐⭐⭐⭐ | 4+ years |
+| **TypeScript** | ⭐⭐⭐⭐ | 3+ years |
+| **Java** | ⭐⭐⭐⭐ | 2+ years |
+| **SQL** | ⭐⭐⭐⭐⭐ | 4+ years |
+| **HTML/CSS** | ⭐⭐⭐⭐⭐ | 4+ years |
+
 </div>
-🚀 Featured Projects
+
+## 🚀 Featured Projects
+
 <div align="center">
+
 Check out my pinned repositories for my most recent and impressive projects!
 
 </div>
-💡 What I Do
-✨ Full Stack Development - Building end-to-end web applications
-⚡ Performance Optimization - Creating fast and responsive systems
-🔐 Secure Coding - Implementing security best practices
-🤝 Team Collaboration - Effective communication and teamwork
-📊 Data Analysis - Processing and visualizing complex data
-🔍 Problem Solving - Creative solutions to technical challenges
 
-📊 GitHub Statistics
-<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadusmanhaider11&theme=tokyonight" alt="Profile Summary" /> </div>
-🤝 Let's Collaborate!
-I'm always interested in:
+## 💡 What I Do
 
-🌟 Open source contributions
-💼 Freelance projects
-🚀 Innovative ideas
-🎯 Technical discussions
-📚 Knowledge sharing
-📮 Get In Touch
+✨ **Full Stack Development** - Building end-to-end web applications  
+⚡ **Performance Optimization** - Creating fast and responsive systems  
+🔐 **Secure Coding** - Implementing security best practices  
+🤝 **Team Collaboration** - Effective communication and teamwork  
+📊 **Data Analysis** - Processing and visualizing complex data  
+🔍 **Problem Solving** - Creative solutions to technical challenges  
+
+## 📊 GitHub Statistics
+
 <div align="center">
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=dribbble&logoColor=white)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadusmanhaider11&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+## 🤝 Let's Collaborate!
+
+I'm always interested in:
+- 🌟 Open source contributions
+- 💼 Freelance projects
+- 🚀 Innovative ideas
+- 🎯 Technical discussions
+- 📚 Knowledge sharing
+
+## 📮 Get In Touch
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadusmanhaider11)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=dribbble&logoColor=white)](https://yourportfolio.com)
 
 </div>
-⭐ Support My Work
-If you find my projects helpful:
 
-⭐ Star my repositories
-🔗 Share my work
-💬 Provide feedback
-🤝 Contribute to my projects
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Let's+build+something+amazing+together+%F0%9F%9A%80;Happy+Coding+%F0%9F%92%BB" alt="Closing Message" /> </div> <div align="center"> Made with ❤️ by Muhammad Usman Haider </div>
+## ⭐ Support My Work
+
+If you find my projects helpful:
+- ⭐ Star my repositories
+- 🔗 Share my work
+- 💬 Provide feedback
+- 🤝 Contribute to my projects
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Let's+build+something+amazing+together+%F0%9F%9A%80;Happy+Coding+%F0%9F%92%BB" alt="Closing Message" />
+</div>
+
+<div align="center">
+  Made with ❤️ by Muhammad Usman Haider
+</div>
